@@ -1,1 +1,2 @@
-Hola soy un archivo
+Hola un archivo
+Otra linea numero 2
